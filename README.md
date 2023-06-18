@@ -1,5 +1,49 @@
-# Shoaib-Memon
+# Shoaib Memon - Web Developer - React Developer -Next.js Developer - App- Developer
+
+## Contact Information
+- Phone: 0323-2579204
+- Email: shoaibmemonit@gmail.com
+- Location: Karachi, Pakistan
 
 
+## Education
+- 2004: Ms Office Course, Academy Of Excellence Kharadar
+- 2008: SSC Matric, Wisdom Grammar School Mosamiyat
+- 2011: HSC, Board Of Intermediate Karachi
+- 2021-22: Web & Mobile App Course, Saylani Mass Training & Job Creation Program (SMIT)
+- 2022-23: Certified Web 3.0 and Metaverse Developer, Presidential Initiative for Artificial Intelligence & Computing (PIAIC)
 
-**I am Next.js Developer**
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Chakra UI
+- Tailwind CSS
+- Bootstrap
+- Node.js
+- Canva
+- MS Excel
+- Shopify
+- TypeScript
+- Next.js
+- React
+
+## Projects
+- Books API Data Fetch And Show With Categories In NEXT.JS ([GitHub](https://github.com/shoaibattari/Api-Learn-Next), [Link](https://api-shoaib-memon.vercel.app/))
+- Panaverse WebPage Next.Js Tailwind CSS ([GitHub](https://github.com/shoaibattari/Panaverse-tailwind), [Link](https://panaverse-tailwind.vercel.app/))
+- Panaverse WebPage Next.Js Chakra UI ([GitHub](https://github.com/shoaibattari/Panaverse), [Link](https://panaverse-shoaib.vercel.app/))
+- Next.js TodoApp Chakra UI ([GitHub](https://github.com/shoaibattari/TODO-APP-NEXTJS), [Link](https://todo-app-shoaibmemon-gmailcom.vercel.app/))
+- NEXT.JS Pricing UI Chakra UI ([GitHub](https://github.com/shoaibattari/next-js-pricing-ui), [Link](https://next-js-pricing-ui.vercel.app/))
+
+## Interests
+- Full Stack Web 2.0 & Web 3.0 Development
+
+## LinkedIn and Social Media Profiles
+- LinkedIn: [linkedin.com/in/shoaib-memon26](https://www.linkedin.com/in/shoaib-memon26)
+- Facebook: [facebook.com/shoaib.attari.399](https://www.facebook.com/shoaib.attari.399)
+
+## YouTube Channel
+- [youtube.com/@shoaibmemon26](https://www.youtube.com/@shoaibmemon26)
+
+## Resume
+- [Resume-ShoaibMemon](https://resume-shoaibmemon.vercel.app/)
