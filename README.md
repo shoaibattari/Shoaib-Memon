@@ -1,4 +1,4 @@
-# Shoaib Memon - Web Developer - React Developer -Next.js Developer - App- Developer
+# Shoaib Memon | Next.js developer | React developer | Web developer | App developer | Learn More Web3 | AI | Blockchain ........
 
 ## Resume
 - [Resume-ShoaibMemon](https://resume-shoaibmemon.vercel.app/)
