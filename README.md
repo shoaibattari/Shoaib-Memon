@@ -1,7 +1,11 @@
 # Shoaib Memon - Web Developer - React Developer -Next.js Developer - App- Developer
 
-## Contact Information
--  (**My Personal Resume Porfolio Site** https://resume-shoaibmemon.vercel.app/))
+## Resume
+- [Resume-ShoaibMemon](https://resume-shoaibmemon.vercel.app/)
+
+
+
+## Contact Information 
 - Phone: 0323-2579204
 - Email: shoaibmemonit@gmail.com
 - Location: Karachi, Pakistan
@@ -46,5 +50,3 @@
 ## YouTube Channel
 - [youtube.com/@shoaibmemon26](https://www.youtube.com/@shoaibmemon26)
 
-## Resume
-- [Resume-ShoaibMemon](https://resume-shoaibmemon.vercel.app/)
