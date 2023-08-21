@@ -1,7 +1,7 @@
 # Shoaib Memon | Next.js developer | React developer | Web developer | App developer | Learn More Web3 | AI | Blockchain ........
 
 ## Resume
-- [Resume-ShoaibMemon](https://resume-shoaibmemon.vercel.app/)
+- [Resume-ShoaibMemon](https://shoaibmemon.vercel.app/)
 
 ## Projects
 - NEXT.JS Book Shop ([GitHub](https://github.com/shoaibattari/Shop), [Link](https://ss-bkshop.vercel.app//))
