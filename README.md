@@ -3,6 +3,14 @@
 ## Resume
 - [Resume-ShoaibMemon](https://resume-shoaibmemon.vercel.app/)
 
+## Projects
+- NEXT.JS Book Shop ([GitHub](https://github.com/shoaibattari/Shop), [Link](https://ss-bkshop.vercel.app//))
+- Books API Data Fetch And Show With Categories In NEXT.JS ([GitHub](https://github.com/shoaibattari/Api-Learn-Next), [Link](https://api-shoaib-memon.vercel.app/))
+- Panaverse WebPage Next.Js Tailwind CSS ([GitHub](https://github.com/shoaibattari/Panaverse-tailwind), [Link](https://panaverse-tailwind.vercel.app/))
+- Panaverse WebPage Next.Js Chakra UI ([GitHub](https://github.com/shoaibattari/Panaverse), [Link](https://panaverse-shoaib.vercel.app/))
+- Next.js TodoApp Chakra UI ([GitHub](https://github.com/shoaibattari/TODO-APP-NEXTJS), [Link](https://todo-app-shoaibmemon-gmailcom.vercel.app/))
+- NEXT.JS Pricing UI Chakra UI ([GitHub](https://github.com/shoaibattari/next-js-pricing-ui), [Link](https://next-js-pricing-ui.vercel.app/))
+
 
 
 ## Contact Information 
@@ -32,13 +40,6 @@
 - TypeScript
 - Next.js
 - React
-
-## Projects
-- Books API Data Fetch And Show With Categories In NEXT.JS ([GitHub](https://github.com/shoaibattari/Api-Learn-Next), [Link](https://api-shoaib-memon.vercel.app/))
-- Panaverse WebPage Next.Js Tailwind CSS ([GitHub](https://github.com/shoaibattari/Panaverse-tailwind), [Link](https://panaverse-tailwind.vercel.app/))
-- Panaverse WebPage Next.Js Chakra UI ([GitHub](https://github.com/shoaibattari/Panaverse), [Link](https://panaverse-shoaib.vercel.app/))
-- Next.js TodoApp Chakra UI ([GitHub](https://github.com/shoaibattari/TODO-APP-NEXTJS), [Link](https://todo-app-shoaibmemon-gmailcom.vercel.app/))
-- NEXT.JS Pricing UI Chakra UI ([GitHub](https://github.com/shoaibattari/next-js-pricing-ui), [Link](https://next-js-pricing-ui.vercel.app/))
 
 ## Interests
 - Full Stack Web 2.0 & Web 3.0 Development
