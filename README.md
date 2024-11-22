@@ -14,7 +14,7 @@
 
 
 ## Contact Information 
-- Whatsaap:[ 0323-2579204](https://wa.me/+923232579204)
+- Whatsaap:[ 0331-3416850](https://wa.me/+923313416850)
 - Email: shoaibmemonit@gmail.com
 - Location: Karachi, Pakistan
 
